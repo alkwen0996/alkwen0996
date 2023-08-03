@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 </div>
 
-<h3>🧑🏻‍💻 Channels</h3>
+<h2>🧑🏻‍💻 Channels</h2>
 <a href="https://velog.io/@alkwen0996" target="_blank"><img src="https://img.shields.io/badge/TechBlog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 <a href="mailto:﻿alkwen0996@naver.com" target="_blank"><img src="https://img.shields.io/badge/Mail-f0506e?logo=Naver&style=flat-square&logoColor=FFFFFF"/></a>
 
 <br><br>
 
-<h3>⚒️ Tech Stack </h3>
+<h2>⚒️ Tech Stack </h2>
 
 <div>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
@@ -46,14 +46,14 @@ Here are some ideas to get you started:
 
 <br><br>
 
-<h3>📚 Online Judge </h3>
+<h2>📚 Online Judge </h2>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alkwen0996)](https://solved.ac/alkwen0996)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=alkwen0996&theme=warm)
 
 <br>
 
-<h3>📊 GitHub Stats </h3>
+<h2>📊 GitHub Stats </h2>
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=alkwen0996&show_icons=true">
