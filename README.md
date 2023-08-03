@@ -10,13 +10,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there 👋
+# Hi there 👋  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falkwen0996%2Falkwen0996)](https://hits.seeyoufarm.com) 
 
-<span align="right">
-  
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falkwen0996%2Falkwen0996)](https://hits.seeyoufarm.com)  
-  
-</span>
+<br>
 
 <h3>🧑🏻‍💻 Channels</h3>
 <a href="https://velog.io/@alkwen0996" target="_blank"><img src="https://img.shields.io/badge/TechBlog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
