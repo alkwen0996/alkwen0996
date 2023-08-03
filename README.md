@@ -10,8 +10,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
 <span align="right">
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falkwen0996%2Falkwen0996)](https://hits.seeyoufarm.com)  
@@ -45,7 +43,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
 </div>
 
-<br>
+<br><br>
 
 <h3>📚 Online Judge </h3>
 
