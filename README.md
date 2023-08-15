@@ -56,10 +56,9 @@ Here are some ideas to get you started:
 
 <br>
 
-<h2>📊 GitHub Stats </h2>
-
+<h2>📊 GitHub States </h2>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=alkwen0996&show_icons=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkwen0996&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api?username=alkwen0996&theme=default&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkwen0996&layout=donut">
 </div>
 
