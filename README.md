@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 <h2>📚 Solved AC </h2>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alkwen0996)](https://solved.ac/alkwen0996)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=alkwen0996)](https://solved.ac/alkwen0996)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=alkwen0996&theme=warm)
 
 <br>
