@@ -12,8 +12,7 @@ Here are some ideas to get you started:
 -->	
 
 <div align="left">
-<h2> 🧑🏻‍💻 alkwen0996 (Minsu Lee, Jerome) 
-
+<h2> 🧑🏻‍💻 Contact & Channel
 </h2>
 
 <a href="https://velog.io/@alkwen0996" target="_blank"><img src="https://img.shields.io/badge/TechBlog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
