@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 <a href="https://velog.io/@alkwen0996" target="_blank"><img src="https://img.shields.io/badge/TechBlog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 <a href="mailto:﻿alkwen0996@naver.com" target="_blank"><img src="https://img.shields.io/badge/Mail-f0506e?logo=Naver&style=flat-square&logoColor=FFFFFF"/></a>
-<img src="https://img.shields.io/github/followers/alkwen0996?style=social" />
 <img align = "right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falkwen0996%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)" />
 
 </div>
