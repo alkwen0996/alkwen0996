@@ -34,13 +34,19 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-181717?style=flat&logo=Git&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white" />
   <br>
-  <img src="https://img.shields.io/badge/Docker-232F3E?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/gitlab-FC6D26?style=flat&logo=gitlab&logoColor=white">
+  <img src="https://img.shields.io/badge/mattermost-0058CC?style=flat&logo=mattermost&logoColor=white">
+  <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white">
+  <br>
   <img src="https://img.shields.io/badge/Amazon AWS-2496ED?style=flat&logo=AmazonAWS&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-232F3E?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=JENKINS&logoColor=white" />
+  <br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
