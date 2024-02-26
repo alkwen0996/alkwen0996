@@ -13,20 +13,11 @@ Here are some ideas to get you started:
 -->	
 
 ## alkwen0996 (Min-su Lee, Jerome) 👋 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falkwen0996%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
-
-![Github States](https://github-readme-stats.vercel.app/api?username=alkwen0996&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=ffc104&count_private=true")
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alkwen0996)
-
-<br>
-
-<div align="left">
-<h2> 🧑🏻‍💻 Contact & Channel
-</h2>
+<img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falkwen0996%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
 
 <a href="https://je-rome.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-FF6550?logo=tistory&style=flat-square&logoColor=FFFFFF"/></a>
 <a href="mailto:﻿alkwen0996@naver.com" target="_blank"><img src="https://img.shields.io/badge/Mail-03C75A?logo=Naver&style=flat-square&logoColor=FFFFFF"/></a>
-<a href="https://drive.google.com/file/d/1kJ4EflscdeznVu_wM0r2A9TJKwIHXYF8/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Portfolio-4285F4?logo=GoogleDocs&style=flat-square&logoColor=FFFFFF"/></a>
+<a href="https://drive.google.com/file/d/1s16XiXbWMD8f6zF01eoxE10AOxrobIGr/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Portfolio-4285F4?logo=GoogleDocs&style=flat-square&logoColor=FFFFFF"/></a>
 </div>
 
 <br>
@@ -61,7 +52,17 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/swagger-85EA2D?style=flat&logo=swagger&logoColor=white">
   
-  <br>
+<br><br>
+  
+<h2>🏆 Solved AC Rank </h2>
+
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alkwen0996)
+
+<br>
+
+<h2>📊 Github Status </h2>
+
+![Github States](https://github-readme-stats.vercel.app/api?username=alkwen0996&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=ffc104&count_private=true")
   
 </div>
 
