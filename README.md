@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
   <br>
 
-  <h3> Infra </h3>
+  <h3> DevOps </h3>
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /><br>
   <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white" />
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
   
 <br><br>
   
-<h2>🏆 Solved AC Rank </h2>
+<h2>🏆 Beakjoon Solved Rank </h2>
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alkwen0996)
 
