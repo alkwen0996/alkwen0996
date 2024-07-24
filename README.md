@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 <a href="https://je-rome.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-FF6550?logo=tistory&style=flat-square&logoColor=FFFFFF"/></a>
 <a href="mailto:﻿alkwen0996@naver.com" target="_blank"><img src="https://img.shields.io/badge/Mail-03C75A?logo=Naver&style=flat-square&logoColor=FFFFFF"/></a>
-<a href="https://drive.google.com/file/d/1s16XiXbWMD8f6zF01eoxE10AOxrobIGr/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Portfolio-4285F4?logo=GoogleDocs&style=flat-square&logoColor=FFFFFF"/></a>
 </div>
 
 <br>
