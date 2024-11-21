@@ -54,7 +54,7 @@ Here are some ideas to get you started:
   
 <br><br>
   
-<h2>🏆 Beakjoon Solved Rank </h2>
+<h2>🏆 Algorithm Rank </h2>
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alkwen0996)
 
