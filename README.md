@@ -13,13 +13,11 @@ Here are some ideas to get you started:
 -->	
 
 ## alkwen0996 (Min-su Lee, Jerome) 👋 
-<img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falkwen0996%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
-
-<a href="https://je-rome.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-FF6550?logo=tistory&style=flat-square&logoColor=FFFFFF"/></a>
-<a href="mailto:﻿alkwen0996@naver.com" target="_blank"><img src="https://img.shields.io/badge/Mail-03C75A?logo=Naver&style=flat-square&logoColor=FFFFFF"/></a>
+- Blog: <a href="https://je-rome.tistory.com/" target="_blank"> https://je-rome.tistory.com </a>
+- Portfolio: 작성중
 </div>
 
-<br><br>
+<br>
 
 <h2> 🪪 Career </h2>
 
@@ -28,7 +26,7 @@ Here are some ideas to get you started:
 | LS ITC   | Dec 2020 ~ Oct 2021  |
 | Metanet  | Aug 2019 ~ Nov 2020  |
 
-<br><br>
+<br>
 
 <h2>⚒️ Skills </h2>
 
@@ -61,7 +59,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/swagger-85EA2D?style=flat&logo=swagger&logoColor=white">
   
-<br><br>
+<br>
 
 <h2> 🌏 Activities </h2>
 
@@ -72,13 +70,11 @@ Here are some ideas to get you started:
   
 </div>
 
-<br><br>
+<br>
   
 <h2>🏆 Algorithm Rank </h2>
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alkwen0996)
-
-<br>
 
 
 
