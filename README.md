@@ -19,7 +19,16 @@ Here are some ideas to get you started:
 <a href="mailto:﻿alkwen0996@naver.com" target="_blank"><img src="https://img.shields.io/badge/Mail-03C75A?logo=Naver&style=flat-square&logoColor=FFFFFF"/></a>
 </div>
 
-<br>
+<br><br>
+
+<h2> 🪪 Career </h2>
+
+| 회사명   | 기간                  |
+|----------|-----------------------|
+| LS ITC   | Dec 2020 ~ Oct 2021  |
+| Metanet  | Aug 2019 ~ Nov 2020  |
+
+<br><br>
 
 <h2>⚒️ Skills </h2>
 
@@ -53,18 +62,23 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/swagger-85EA2D?style=flat&logo=swagger&logoColor=white">
   
 <br><br>
+
+<h2> 🌏 Activities </h2>
+
+| 단체명                     | 활동 기간          |
+|----------------------------|--------------------|
+| Fun.D                      | 2024.09 - 2025.01 |
+| 삼성청년소프트웨어아카데미(SSAFY)  | 2022.07 - 2023.06 |
+  
+</div>
+
+<br><br>
   
 <h2>🏆 Algorithm Rank </h2>
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alkwen0996)
 
 <br>
-
-<h2>📊 Github Status </h2>
-
-![Github States](https://github-readme-stats.vercel.app/api?username=alkwen0996&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=ffc104&count_private=true")
-  
-</div>
 
 
 
