@@ -58,8 +58,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"/><br>
   <img src="https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/swagger-85EA2D?style=flat&logo=swagger&logoColor=white">
-  
-<br>
+
+
+<br><br>
 
 <h2> 🌏 Activities </h2>
 
