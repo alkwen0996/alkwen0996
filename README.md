@@ -14,17 +14,16 @@ Here are some ideas to get you started:
 
 ## alkwen0996 (Min-su Lee, Jerome) 👋 
 - Blog: <a href="https://je-rome.tistory.com/" target="_blank"> https://je-rome.tistory.com </a>
-- Portfolio: 작성중
 </div>
 
 <br>
 
-<h2> 🪪 Career </h2>
+<h2> 🌏 Activities </h2>
 
-| 회사명   | 기간                  |
-|----------|-----------------------|
-| LS ITC   | Dec 2020 ~ Oct 2021  |
-| Metanet  | Aug 2019 ~ Nov 2020  |
+| 단체명                     | 활동 기간          |
+|----------------------------|--------------------|
+| Fun.D                      | 2024.09 - 2025.01 |
+| 삼성청년소프트웨어아카데미(SSAFY)  | 2022.07 - 2023.06 |
 
 <br>
 
@@ -58,16 +57,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"/><br>
   <img src="https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/swagger-85EA2D?style=flat&logo=swagger&logoColor=white">
-
-
-<br><br>
-
-<h2> 🌏 Activities </h2>
-
-| 단체명                     | 활동 기간          |
-|----------------------------|--------------------|
-| Fun.D                      | 2024.09 - 2025.01 |
-| 삼성청년소프트웨어아카데미(SSAFY)  | 2022.07 - 2023.06 |
   
 </div>
 
