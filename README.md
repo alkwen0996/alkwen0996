@@ -13,17 +13,18 @@ Here are some ideas to get you started:
 -->	
 
 ## alkwen0996 (Min-su Lee, Jerome) 👋 
-- Blog: <a href="https://je-rome.tistory.com/" target="_blank"> https://je-rome.tistory.com </a>
 </div>
 
 <br>
 
-<h2> 🌏 Activities </h2>
+<h2> 🌏 Activities & Careers </h2>
 
 | 단체명                     | 활동 기간          |
 |----------------------------|--------------------|
 | Fun.D                      | 2024.09 - 2025.01 |
 | 삼성청년소프트웨어아카데미(SSAFY)  | 2022.07 - 2023.06 |
+| LS ITC | 2020.12 - 2021.10 |
+| Metanet  | 2019.08 - 2020.11 |
 
 <br>
 
