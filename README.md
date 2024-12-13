@@ -17,17 +17,6 @@ Here are some ideas to get you started:
 
 <br>
 
-<h2> 🌏 Activities & Careers </h2>
-
-| 단체명                     | 활동 기간          |
-|----------------------------|--------------------|
-| Fun.D                      | 2024.09 - 2025.01 |
-| 삼성청년소프트웨어아카데미(SSAFY)  | 2022.07 - 2023.06 |
-| LS ITC | 2020.12 - 2021.10 |
-| Metanet  | 2019.08 - 2020.11 |
-
-<br>
-
 <h2>⚒️ Skills </h2>
 
 <div>
@@ -60,6 +49,15 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/swagger-85EA2D?style=flat&logo=swagger&logoColor=white">
   
 </div>
+
+<br>
+
+<h2> 📝 Activities </h2>
+
+| 단체명                     | 활동 기간          |
+|----------------------------|--------------------|
+| Fun.D                      | 2024.09 - 2025.01 |
+| 삼성청년소프트웨어아카데미(SSAFY)  | 2022.07 - 2023.06 |
 
 <br>
   
