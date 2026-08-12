@@ -70,11 +70,5 @@ Here are some ideas to get you started:
   
 </div>
 
-<br>
-  
-<h2>🏆 Algorithm Rank </h2>
-
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alkwen0996)
-
 
 
